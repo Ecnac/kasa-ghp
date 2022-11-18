@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/kasa-ghp/static/js/main.9246b159.js",
+    "static/js/787.38f59ec3.chunk.js": "/kasa-ghp/static/js/787.38f59ec3.chunk.js",
+    "static/media/about-banner.png": "/kasa-ghp/static/media/about-banner.0c5ab2744fc9b4531788.png",
+    "static/media/home-banner.png": "/kasa-ghp/static/media/home-banner.0767f726b7a036d62365.png",
+    "static/media/about-banner-mobile.png": "/kasa-ghp/static/media/about-banner-mobile.cd5c1478c17e7d786eb1.png",
+    "static/media/home-banner-mobile.png": "/kasa-ghp/static/media/home-banner-mobile.96df4df159c9cdfd6d0e.png",
+    "index.html": "/kasa-ghp/index.html",
+    "static/media/red-star.svg": "/kasa-ghp/static/media/red-star.4949d967956f67c591576c1c58b597ba.svg",
+    "static/media/grey-star.svg": "/kasa-ghp/static/media/grey-star.10a6abbf137d0a44b480fa702914d661.svg",
+    "main.9246b159.js.map": "/kasa-ghp/static/js/main.9246b159.js.map",
+    "787.38f59ec3.chunk.js.map": "/kasa-ghp/static/js/787.38f59ec3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9246b159.js"
+  ]
+}
