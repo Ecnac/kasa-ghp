@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/kasa-ghp/static/js/main.9246b159.js",
+    "main.js": "/kasa-ghp/static/js/main.77ff6627.js",
     "static/js/787.38f59ec3.chunk.js": "/kasa-ghp/static/js/787.38f59ec3.chunk.js",
     "static/media/about-banner.png": "/kasa-ghp/static/media/about-banner.0c5ab2744fc9b4531788.png",
     "static/media/home-banner.png": "/kasa-ghp/static/media/home-banner.0767f726b7a036d62365.png",
@@ -9,10 +9,10 @@
     "index.html": "/kasa-ghp/index.html",
     "static/media/red-star.svg": "/kasa-ghp/static/media/red-star.4949d967956f67c591576c1c58b597ba.svg",
     "static/media/grey-star.svg": "/kasa-ghp/static/media/grey-star.10a6abbf137d0a44b480fa702914d661.svg",
-    "main.9246b159.js.map": "/kasa-ghp/static/js/main.9246b159.js.map",
+    "main.77ff6627.js.map": "/kasa-ghp/static/js/main.77ff6627.js.map",
     "787.38f59ec3.chunk.js.map": "/kasa-ghp/static/js/787.38f59ec3.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.9246b159.js"
+    "static/js/main.77ff6627.js"
   ]
 }
